@@ -1,0 +1,21 @@
+body {
+    background-color: #040404;
+}
+
+.nav {
+    background-color: #d8ab4e;
+}
+
+.nav-item {
+    color: white;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 200px;
+    font-size: 100px;
+    color: #b48c36;
+    font-family: 'Libre Caslon Display', serif;
+}
+
