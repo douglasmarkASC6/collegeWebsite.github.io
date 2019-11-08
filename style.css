@@ -1,5 +1,6 @@
 body {
     background-color: #040404;
+    text-align: center;
 }
 
 .nav {
@@ -18,3 +19,4 @@ h1 {
     color: #b48c36;
     font-family: 'Libre Caslon Display', serif;
 }
+
